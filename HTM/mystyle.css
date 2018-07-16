@@ -1,0 +1,53 @@
+h3{
+padding:20px;
+padding-left:13%;
+color:white;
+}
+h4{
+color:#2093d2;
+}
+.a1{
+padding-top:3%;
+padding-left:13%;
+}
+/*  .a2{
+padding-left:0px;
+} */
+.a3{
+padding-left:0px;
+color:white;
+} 
+.a4{
+height:70px;
+width:100%;
+background-image:url('banner-bg.png');
+}
+/* .a5{
+padding-top:3%;
+padding-left:0%
+} */
+.warning {background-color: #ff9800;} /* Orange */
+.warning:hover {background: #e68a00;}
+@media screen and (max-width: 600px) {
+
+  h3 {
+    padding-top:22px;
+    padding-left:7%;
+	
+	padding-bottom:12%;
+    color:white;
+	font-size:20px;
+  }
+   .a1{
+padding-top:0%;
+padding-left:0%;
+} 
+ 	
+.go{
+text-align:center;
+margin-left:0px;
+margin-right:0px;
+margin-top:2%;
+}
+
+  }

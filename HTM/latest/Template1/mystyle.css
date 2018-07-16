@@ -1,0 +1,336 @@
+.i3{
+padding:10%;
+padding-left:43%;
+color:white;
+font-family: Georgia, serif;
+}
+.co{
+padding-left:65px;
+color:white;
+font-family: Georgia, serif;
+}
+.a1{
+padding-top:3%;
+font-size:15px;
+color:black;
+line-height: 1.6;
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.a2{
+color:rgb(32, 147, 210);
+padding-left:5%;
+padding-top:3%;
+font-family: Georgia, serif;
+}
+ .a3{
+background-color:white;
+border-radius: 8px;
+width:102%;
+height:80%;
+margin-top:73px;
+} 
+.a4{
+height:50%;
+margin-left:0px;
+margin-right:0px;
+background-image:url('banner-bg.png');
+}
+.a5{
+padding-top:2%; 
+padding-left:10%;
+} 
+.a6{
+padding-left:12%;
+padding-top:3%;
+height:57%;
+background-image:url('https://vignette.wikia.nocookie.net/symbolism/images/4/43/Orange.png/revision/latest?cb=20140818120046.jpg');
+} 
+.a66{
+background-color:Gray; 
+height:18%;
+color:white;
+} 
+.a7{
+margin-top:6%;
+margin-left:49%;
+height:80px;
+width:85px;
+} 
+.a71{
+margin-top:15%;
+margin-left:49%;
+height:80px;
+width:85px;
+} 
+.a711{
+margin-top:12%;
+margin-left:49%;
+height:80px;
+width:85px;
+}
+.a72{
+margin-top:8%;
+margin-left:49%;
+height:80px;
+width:85px;
+}
+.a8{
+height:4%;
+background-image:url('banner-bg.png');
+}
+.a9{
+height:25%;
+background-color:white;
+}
+h5{
+padding-top:6%;
+padding-left:1%;
+color:white;
+font-size:15px;
+font-family: Georgia, serif;
+}
+.h{
+padding-top:5%;
+padding-left:65px;
+color:white;
+font-size:15px;
+line-height: 1.6;
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.io{
+width:15;
+height:55%;
+margin-left:45%;
+
+}
+.cam{
+padding-left:13%;
+}
+.i1{
+background-color:Gray; 
+height:55%
+}
+.i2{
+
+height:45%;
+width:100%;
+margin-left:0px;
+margin-right:0px;
+background-color:white;
+}
+.conf{
+height:55%;
+width:100%;
+margin-left:0px;
+margin-right:0px;
+background-color:white;
+}
+.i4{
+font-family: Georgia, serif;
+padding-left:42%;
+padding-top:2%;
+}
+.i5{
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+padding-left:42%;
+padding-top:2%;
+line-height: 1.6;
+}
+.i6{
+background-color:Gray; 
+height:42%;
+color:white;
+}
+.i7{
+height:55%;
+background-image:url('https://vignette.wikia.nocookie.net/symbolism/images/4/43/Orange.png/revision/latest?cb=20140818120046.jpg');
+} 
+.i8{
+color:white;
+text-align:center;
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+padding-top:3%;
+}
+.i13{
+font-family: Georgia, serif;
+padding-left:42%;
+padding-top:2%;
+line-height: 1.6;
+}
+.i12{
+padding-top:1%;
+}
+.i11{
+height:33%;
+width:100%;
+margin-left:0px;
+margin-right:0px;
+margin-top:0px;
+background-color:white;
+}
+.d23{
+padding-top:8px; 
+padding-left:49%;
+width:10px;
+height:5px;
+}
+.spy{
+text-align:center; 
+padding-left:30%; 
+padding-top:2%;
+line-height: 1.6;
+font-size:17px;
+}
+.sky{
+padding-top:2%; 
+padding-left:20%
+}
+.sy{
+padding-top:24px;
+padding-left:42%;
+width:10px;  
+height:5px;
+}
+.go{
+padding-top:42px; 
+padding-left:42%;
+width:10px; 
+height:5px;
+}
+
+@media screen and (max-width: 600px) {
+
+.a4{
+height:25%;
+}
+.i3{
+padding-left:27%;
+padding-top:2%;
+color:white;
+font-family: Georgia, serif;
+}
+.i12{
+height:52%;
+}
+.a5{
+padding-top:9%; 
+padding-left:25%;
+} 
+.co{
+padding-right:8%;
+padding-left:1px;
+color:white;
+font-family: Georgia, serif;
+}
+.h{
+padding-top:3%;
+padding-left:0px;
+padding-right:0px;
+color:white;
+font-size:15px;
+line-height: 1.6;
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.a71{
+display:none;
+} 
+.cam{
+padding-left:2%;
+padding-bottom:41px;
+height:
+}
+
+.a2{
+color:rgb(32, 147, 210);
+padding-left:5%;
+padding-top:2%;
+font-family: Georgia, serif;
+}
+.i1{
+background-color:Gray; 
+height:58%
+}
+ .a3{
+background-color:white;
+border-radius: 8px;
+width:102%;
+height:86%;
+margin-top:50px;
+} 
+.d23{
+padding-top:1%; 
+padding-left:96px;
+width:10px;
+height:5px;
+}
+.i4{
+font-family: Georgia, serif;
+padding-left:7%;
+padding-top:2%;
+}
+.i5{
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+padding-left:7%;
+padding-top:2%;
+line-height: 1.6;
+}
+.i6{
+background-color:Gray; 
+height:45%;
+color:white;
+}
+.a711{
+display:none;
+}
+.i8{
+color:white;
+text-align:center;
+padding-top:1%;
+}
+.spy{
+padding-left:7%; 
+
+}
+.sky{
+padding-top:2%; 
+padding-left:4%
+}
+.sy{
+padding-top:30px; 
+padding-left:96px;
+}
+.i7{
+height:47%;
+background-image:url('https://vignette.wikia.nocookie.net/symbolism/images/4/43/Orange.png/revision/latest?cb=20140818120046.jpg');
+} 
+.i13{
+font-family: Georgia, serif;
+padding-left:7%;
+padding-top:2%;
+line-height: 1.6;
+}
+.a71{
+display:none;
+}
+.i131{
+font-family: Georgia, serif;
+padding-left:7%;
+padding-top:0%;
+}
+.a7{
+display:none;
+}
+.a6{
+height:60%;
+}
+.go{
+
+padding-top:5px; 
+padding-left:28px;
+}
+.a66{
+background-color:Gray; 
+height:25%;
+color:white;
+} 
+}

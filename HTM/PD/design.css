@@ -1,0 +1,22 @@
+.styl {
+float:center'
+
+}
+.st{
+padding-top:5px;
+padding-left: 146px;
+}
+@media screen and (max-width:480px){
+.styl {
+width:100%;
+
+}
+
+.st{
+
+padding-top:5px;
+padding-left: 0px;
+width:100%;
+
+}
+}

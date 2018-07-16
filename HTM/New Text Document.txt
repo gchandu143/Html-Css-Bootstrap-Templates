@@ -1,0 +1,328 @@
+<%RefererPage = lcase(Request.QueryString("referer"))%>
+<HTML>
+<HEAD>
+<TITLE>Administration Executive - VisaPro India Careers</TITLE>
+<META NAME="robots" CONTENT="all">
+<META NAME="revisit-after" CONTENT="14 days">
+<META NAME="rating" CONTENT="general">
+<META NAME="distribution" CONTENT="global">
+<META NAME="author" CONTENT="webmaster@VisaPro.com">
+<style type="text/css">
+<!--
+.Text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8.5pt;
+}
+.SmallText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8.5pt;
+}
+-->
+</style>
+
+<style type="text/css">
+<!--
+.ContactText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	font-weight: bold;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.ContactText1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13pt;
+	font-weight: normal;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+a:visited {
+	color: #ff6600;
+}
+-->
+</style>
+</HEAD>
+<BODY vLink=purple link=#ff6600 bgColor=#ffffff leftMargin=0 topMargin=0  marginheight="0" marginwidth="0">
+<A name=Top></A>
+<!--
+<style>
+h1 {  font-family: Arial, Helvetica, sans-serif; font-size: 14pt; line-height: 13pt; font-weight: normal}
+.SmallText {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8.5pt}
+</style>
+-->
+
+<style type="text/css">
+<!--
+.SmallText1 {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 8pt;
+line-height: 17px;
+}
+-->
+</style>
+<!-- #include virtual="/Include/SLGrayAllHeaderNoTAF.asp" -->
+<TABLE cellSpacing=0 cellPadding=0 width=780 align=center 
+background=/Images/new_back5.gif border=0>
+<TBODY> 
+<TR vAlign=top> 
+<TD> 
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center 
+background=/Images/new_transparent.gif border=0>
+<TBODY> 
+<TR> 
+<TD vAlign=top align=left width="19%"></TD>
+<TD vAlign=top align=left width="1%" 
+background=/Images/new_line2.gif rowSpan=2>&nbsp;</TD>
+<TD vAlign=top width="79%" rowSpan=2> 
+<table cellspacing=0 cellpadding=0 width="93%" align=center 
+border=0>
+<tbody> 
+<tr valign=top align="right"> 
+<td height=19 align="right"><table width="0" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td><a href="http://www.addthis.com/bookmark.php" target="_blank" onClick="window.open('http://www.addthis.com/bookmark.php?wt=nw&pub=visapro&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'addthis', 'scrollbars=yes,menubar=no,width=618,height=600,resizable=no,toolbar=no,location=no,status=no,screenX=200,screenY=10,left=200,top=100'); return false;"><img src="/Images/Bookmark-US-Immigration-Links.gif" alt="Bookmark this page" width="32" height="20" border="0"></a></td>
+<td><a href="javascript:showTAF('<%="http://www.visapro.in" & Request.ServerVariables("SCRIPT_NAME")%>')"><img src="/Images/F6_03.gif" alt="Email this page to a friend" width="38" height="20" border="0"></a></td>
+</tr>
+</table></td>
+</tr>
+<tr valign=top> 
+<td height=5 colspan="2"> 
+<hr>
+</td>
+</tr>
+</tbody> 
+</table>
+<table width="93%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="middle"> 
+<td width="47%" height="28"> <font size="5" face="Arial, Helvetica, sans-serif" color="#0066CC"><b>VisaPro 
+Careers</b></font></td>
+<td width="53%" align="right"><table width="100" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="SmallText">Powered&nbsp;By:&nbsp; </td>
+<td align="right"><a href="http://www.jobsbazaar.com" target="_new"><img src="/Images/JB_Logo.gif" width="74" height="32" border="0"></a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="93%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top"> 
+<td> 
+<hr>
+</td>
+</tr>
+</table>
+<table cellspacing=0 width="93%" 
+border=0 align="center">
+<tbody>
+<tr > 
+<td height=0><font 
+face="Verdana, Arial, Helvetica, sans-serif" 
+size=1><a href="/"><b>Home</b></a>&nbsp;&nbsp;>&nbsp;&nbsp;<a href=""><b>Careers</b></a>&nbsp;&nbsp;>&nbsp;&nbsp;<b>Administration 
+Executive</b></font></td>
+</tr>
+</tbody>
+</table>
+<font size="2" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><br>
+<br>
+</font> 
+<table width="93%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top"><img src="/Images/Career_Main4.jpg" width="574" height="113"></td>
+</tr>
+</table>
+<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><br>
+<br>
+</font> 
+<table width="93%" border="0" cellspacing="0" cellpadding="1" align="center">
+<tr> 
+<td width="69%">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr valign="top"> 
+<td> 
+<table width="100%" border="0" cellspacing="1" cellpadding="0">
+<tr> 
+<td bgcolor="#CCCCCC"> <table width="100%" border="0" cellspacing="1" cellpadding="3">
+<tr> 
+<td bgcolor="#EFEFEF" height="25"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Administration 
+Executive<a name="AE" id="AE"></a><span class="SmallText"> 
+(Code: IN110)</span></b></font></td>
+</tr>
+<tr valign="top"> 
+<td height="25" valign="top" bgcolor="#FFFFFF"> 
+<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td valign="top" class="SmallText"><strong>VisaPro 
+<em><font color="#0066CC">Administration 
+Executive </font></em>will:</strong></td>
+</tr>
+<tr> 
+<td><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="6%" align="center" valign="top"><img src="/Images/BlackSquare1.gif" width="4" height="8"></td>
+<td width="94%" class="SmallText">	
+Manage the Front Desk</td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td align="center" valign="top"><img src="/Images/BlackSquare1.gif" width="4" height="8"></td>
+<td class="SmallText"> Handle 
+Incoming and Outgoing calls</td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td align="center" valign="top"><img src="/Images/BlackSquare1.gif" width="4" height="8"></td>
+<td class="SmallText">Provide excellent customer service through the prompt handling of information requests</td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td align="center" valign="top"><img src="/Images/BlackSquare1.gif" width="4" height="8"></td>
+<td class="SmallText"> Handle 
+travel arrangements</td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td align="center" valign="top"><img src="/Images/BlackSquare1.gif" width="4" height="8"></td>
+<td class="SmallText"> Provide 
+assistance to the CEO</td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td align="center" valign="top"><img src="/Images/BlackSquare1.gif" width="4" height="8"></td>
+<td class="SmallText"> Provide 
+assistance in general administration</td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td colspan="2" valign="top" class="SmallText"><strong>The 
+ideal candidate should:</strong></td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td align="center" valign="top"><img src="/Images/BlackSquare1.gif" width="4" height="8"></td>
+<td class="SmallText"> Possess 
+at least 1 year of work experience</td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td align="center" valign="top"><img src="/Images/BlackSquare1.gif" width="4" height="8"></td>
+<td class="SmallText"> Possess 
+excellent communication skills</td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td align="center" valign="top"><img src="/Images/BlackSquare1.gif" width="4" height="8"></td>
+<td class="SmallText"> Be proficient 
+in using MS Office</td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td align="center" valign="top"><img src="/Images/BlackSquare1.gif" width="4" height="8"></td>
+<td class="SmallText">Customer service experience is a plus</td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td colspan="2" valign="top" class="SmallText"><strong>Location: 
+</strong>Hyderabad, India</td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td colspan="2" valign="top" class="SmallText"><font color="#0066CC">Please</font> 
+<strong> <a href="mailto:indiahr@visapro.com">send</a></strong> 
+<font color="#0066CC">your 
+resume <span class="SmallText">with 
+the relevant code in the subject.</span></font></td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td colspan="2" valign="top"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+<td colspan="2" valign="top" class="SmallText"><!-- #include virtual="/Include/AddressInIndia.asp" --></td>
+</tr>
+</table></td>
+</tr>
+<tr> 
+<td height="11"><img src="/Images/new_transparent.gif" width="10" height="10"></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+	                            
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br>
+<br>
+<!-- #include file="CurOpp.asp" --></td>
+</tr>
+</table> </TD>
+</TR>
+<TR> 
+<TD vAlign=top align=left width="20%"> 
+<!-- #include virtual="/Include/SLLeftSideLinks.asp" --></TD>
+</TR>
+<TR> 
+<TD colSpan=3></TD>
+</TR>
+</TBODY>
+</TABLE>
+</TD>
+</TR>
+</TBODY>
+</TABLE>
+<!-- #include virtual="/Include/SLBottomLinks.inc" -->
+</BODY>
+</HTML>
